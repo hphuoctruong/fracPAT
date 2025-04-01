@@ -1,7 +1,7 @@
 from __future__ import annotations
 import sys
 import fenics as fn
-from mshr import *
+# from mshr import *
 from utils.hippylib import *
 import numpy as np
 import matplotlib.pyplot as plt
